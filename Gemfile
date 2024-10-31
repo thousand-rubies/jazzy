@@ -6,7 +6,7 @@ gemspec
 
 group :development do
   # Code style
-  gem 'rubocop', '~> 1.18'
+  gem 'rubocop', '~> 1.66', '>= 1.66.0'
 
   # Tests
   gem 'bacon'
